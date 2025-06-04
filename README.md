@@ -1,2 +1,7 @@
 # 16x2_lcd_display_with_pico
 Connect a 16x2 LCD Display to a Raspberry Pi Pico
+
+There are better display choices, including those with built-in STEMMA-QT to cut down on wiring, but if you have one like this lying around, this should help you get it connected & running a demo!
+
+Standard LCD 16x2 + extras - white on blue - https://www.adafruit.com/product/181
+
