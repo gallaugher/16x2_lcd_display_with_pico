@@ -5,3 +5,6 @@ There are better display choices, including those with built-in STEMMA-QT to cut
 
 Standard LCD 16x2 + extras - white on blue - https://www.adafruit.com/product/181
 
+<img width="800" alt="wiring-diagram" src="https://github.com/user-attachments/assets/f04f7d59-2cd3-4e94-9f80-347bef188b0e" />
+
+[![YouTube Video](https://img.youtube.com/vi/wlpZIM-Zg9E/maxresdefault.jpg)](https://youtu.be/wlpZIM-Zg9E)
